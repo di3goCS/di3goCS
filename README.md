@@ -1,9 +1,10 @@
 ### Hi there 👋
-
+<p align="center>
   <img 
     src="https://i.pinimg.com/736x/ac/e8/10/ace810e6bcb3af0ea83929e010ae9013.jpg"
     width="50%"> 
   </img>
+ </p>
 
 <!--
 **di3goCS/di3goCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
