@@ -1,4 +1,4 @@
-<h3 align="center"> :stars: :rainbow: :zap: Olá!! :zap: :rainbow: :stars: </h3>
+<h3 align="center"> :stars: :rainbow: :zap: Bem vindo ao meu orkut :zap: :rainbow: :stars: </h3>
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/32/1c/4c/321c4c051fb44a829319ecf8d0ed75da.gif"
