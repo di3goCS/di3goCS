@@ -1,8 +1,8 @@
 ### :stars: Olá!! :rainbow:
 <p align="center">
   <img 
-    src="https://i.gifer.com/NSjT.gif"
-    width="50%"> 
+    src="https://i.pinimg.com/originals/32/1c/4c/321c4c051fb44a829319ecf8d0ed75da.gif"
+    width="50%"/> 
  </p>
 
 ### Eu sou o Diego!
