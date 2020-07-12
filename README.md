@@ -11,6 +11,10 @@
 - Dizem que trabalho na <a href="https://github.com/EcompJr">EcompJr<a>
 - Finjo ser programador na maior parte do tempo :crying_cat_face:
 - Não sei se tem mais algo de interessante pra falar, um dia eu altero isso aqui
+  
+<p align="center">
+  <img src="https://i.imgur.com/5nXdMr4.gif" width="50%"/>
+</p>
 <!--
 **di3goCS/di3goCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
