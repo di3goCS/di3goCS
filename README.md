@@ -3,7 +3,7 @@
   <img 
     src="https://i.gifer.com/NSjT.gif"
     width="50%"> 
-  </img>
+  /img>
  </p>
 
 ### Eu sou o Diego!
