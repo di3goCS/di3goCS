@@ -1,6 +1,4 @@
-<p align="center">
-  <h3> :stars: :rainbow: Olá!! :rainbow: :stars: </h3>
-</p>
+<h3 align="center"> :stars: :rainbow: Olá!! :rainbow: :stars: </h3>
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/32/1c/4c/321c4c051fb44a829319ecf8d0ed75da.gif"
