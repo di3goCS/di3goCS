@@ -1,5 +1,5 @@
 <p align="center">
-  ### :stars: :rainbow: Olá!! :rainbow: :stars:
+  <h3> :stars: :rainbow: Olá!! :rainbow: :stars: </h3>
 </p>
 <p align="center">
   <img 
