@@ -5,7 +5,7 @@
     width="50%"/> 
  </p>
 
-### Eu sou o Diego!
+### Oi, eu sou o Diego :flushed:
 - Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS)
 - Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI)
 - Dizem que trabalho na <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
