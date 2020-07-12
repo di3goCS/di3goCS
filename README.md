@@ -6,9 +6,11 @@
  </p>
 
 ### Eu sou o Diego!
-- Graduando em Engenharia de Computação
-- Técnico em Desenvolvimento de Sistemas
-- Não sei se tem mais algo de interessante pra falar
+- Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana
+- Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial
+- Dizem que trabalho na <a href="https://github.com/EcompJr">EcompJr<a>
+- Finjo ser programador na maior parte do tempo :crying_cat_face:
+- Não sei se tem mais algo de interessante pra falar, um dia eu altero isso aqui
 <!--
 **di3goCS/di3goCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
