@@ -1,7 +1,7 @@
 <h3 align="center"> :stars: :rainbow: :zap: Bem vindo ao meu orkut :zap: :rainbow: :stars: </h3>
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/32/1c/4c/321c4c051fb44a829319ecf8d0ed75da.gif"
+    src="https://lh3.googleusercontent.com/proxy/iMX5rpDZVRqMxUOL70sYCR7_IS5xAyAKfs8frVbceZ-5g5gdE4TS9lpemVzqZwd5afNEW9G3UiOGW1D72aPHzepjiWLD9rG7G8EpgiY8UBNfluz9biOI4Qv930LjGRK_LrfCVhSnZvz9h4fpkFk.gif"
     width="50%"/> 
  </p>
 
