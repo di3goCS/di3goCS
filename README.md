@@ -1,4 +1,6 @@
-### :stars: :rainbow: Olá!! :rainbow: :stars:
+<p align="center">
+  ### :stars: :rainbow: Olá!! :rainbow: :stars:
+</p>
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/32/1c/4c/321c4c051fb44a829319ecf8d0ed75da.gif"
