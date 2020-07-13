@@ -19,6 +19,24 @@
 <p align="center">
   <img src="https://i.imgur.com/5nXdMr4.gif" width="50%"/>
 </p>
+
+### Habilidades Técnicas:
+- HTML, CSS e JS básico
+<p align="center">
+  <img
+       src="https://www.clipartmax.com/png/middle/440-4409582_rather-th-html-css-js-icon-png.png"
+       width="30%" />
+</p>
+- PHP/Laravel
+<p align="center">
+  <img 
+       src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" 
+       width="30%" />
+  <img
+       src="https://lh3.googleusercontent.com/proxy/zXsadDxXVkpJPEknlgMZbLAaB406weMEs3JvXw0YlRAuaT-V0vVPj6LQvMNSg78UssE6XzoZveYWtujPJ7dSma6XrL-vBsSmCA493vMetuopDBBlJXogfRJJucF1HeFM" 
+       width="30%" />
+</p>
+
 <!--
 **di3goCS/di3goCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
