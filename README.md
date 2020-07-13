@@ -22,12 +22,12 @@
 
 ### Habilidades Técnicas:
 - HTML, CSS e JS básico
+- PHP/Laravel
 <p align="center">
   <img
        src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/147949-html5-css3-javascript.png"
-       width="20%" />
+       width="30%" />
 </p>
-- PHP/Laravel
 <p align="center">
   <img 
        src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" 
