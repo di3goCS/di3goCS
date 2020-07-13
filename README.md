@@ -24,7 +24,7 @@
 - HTML, CSS e JS básico
 <p align="center">
   <img
-       src="https://www.clipartmax.com/png/middle/440-4409582_rather-th-html-css-js-icon-png.png"
+       src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/147949-html5-css3-javascript.png"
        width="20%" />
 </p>
 - PHP/Laravel
