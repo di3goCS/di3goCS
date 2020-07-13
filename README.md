@@ -20,7 +20,7 @@
   <img src="https://i.imgur.com/5nXdMr4.gif" width="50%"/>
 </p>
 
-### Habilidades Técnicas:
+### :man_technologist: Habilidades Técnicas:
 - HTML, CSS e JS básico
 - PHP/Laravel
 <p align="center">
