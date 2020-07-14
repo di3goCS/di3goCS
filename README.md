@@ -17,7 +17,8 @@
 - Não sei se tem mais algo de interessante pra falar, um dia eu altero isso aqui
   
 <p align="center">
-  <img src="https://i.imgur.com/4SdB78W.gif?noredirect"/>
+  <img src="https://i.imgur.com/4SdB78W.gif?noredirect"
+       width="30%" />
 </p>
 
 ### :man_technologist: Habilidades Técnicas:
