@@ -33,7 +33,7 @@
        src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" 
        width="20%" />
   <img
-       src="https://lh3.googleusercontent.com/proxy/zXsadDxXVkpJPEknlgMZbLAaB406weMEs3JvXw0YlRAuaT-V0vVPj6LQvMNSg78UssE6XzoZveYWtujPJ7dSma6XrL-vBsSmCA493vMetuopDBBlJXogfRJJucF1HeFM" 
+       src="https://alexandrebbarbosa.files.wordpress.com/2018/06/logolaravel.png" 
        width="25%" />
 </p>
 
