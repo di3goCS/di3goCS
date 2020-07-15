@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegosilva@ecomp.uefs.br)](mailto:diegosilva@ecomp.uefs.br)
 ##### :link: <a href="https://di3gocs.github.io">di3gocs.github.io</a>
 
-### Oi, eu sou o Diego :flushed:
+<h3 align="center"> Oi, eu sou o Diego :flushed: <h3>
 <p align="center">
   <img 
     src="https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/programming-languages-fading-going-away_0.jpg?itok=hltRRpgL"
