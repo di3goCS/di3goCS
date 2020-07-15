@@ -15,11 +15,6 @@
 - Dizem que trabalho na <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
 - Finjo ser programador :shipit: na maior parte do tempo :crying_cat_face:
 - Não sei se tem mais algo de interessante pra falar, um dia eu altero isso aqui
-  
-<p align="center">
-  <img src="https://i.imgur.com/4SdB78W.gif?noredirect"
-       width="30%" />
-</p>
 
 ### :man_technologist: Habilidades Técnicas:
 - HTML, CSS e JS básico
