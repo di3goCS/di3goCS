@@ -14,7 +14,6 @@
 - Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI)
 - Dizem que trabalho na <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
 - Finjo ser programador :shipit: na maior parte do tempo :crying_cat_face:
-- Não sei se tem mais algo de interessante pra falar, um dia eu altero isso aqui
 
 ### :man_technologist: Habilidades Técnicas:
 - HTML, CSS e JS básico
