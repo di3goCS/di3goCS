@@ -16,9 +16,8 @@
 - Finjo ser programador :shipit: na maior parte do tempo :crying_cat_face:
   
 ### :computer: Projetos:
-Atualmente, estou construindo meu site de portfólio, mas contribuo e pretendo aumentar minhas contribuições.
 - <a href="https://di3gocs.github.io">Meu site</a>
-- <a href="https://github.com/covidmunicipal">Projeto Covid Municipal</a>
+- <a href="https://github.com/covidmunicipal">Covid Municipal</a>
 
 ### :man_technologist: Habilidades Técnicas:
 - HTML, CSS e JS básico
