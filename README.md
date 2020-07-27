@@ -38,14 +38,12 @@
   <img
        src="https://alexandrebbarbosa.files.wordpress.com/2018/06/logolaravel.png" 
        width="23%" />
-</p>
-<p align="center">
-  <img
+   <img
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"
        width="13%" />
   <img
        src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"
-       width="13%"
+       width="13%" />
 </p>
 
 <!--
