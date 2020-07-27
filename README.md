@@ -34,18 +34,18 @@
 <p align="center">
   <img 
        src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" 
-       width="20%" />
+       width="18%" />
   <img
        src="https://alexandrebbarbosa.files.wordpress.com/2018/06/logolaravel.png" 
-       width="25%" />
+       width="23%" />
 </p>
 <p align="center">
   <img
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"
-       width="15%" />
+       width="13%" />
   <img
        src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"
-       width="15%"
+       width="13%"
 </p>
 
 <!--
