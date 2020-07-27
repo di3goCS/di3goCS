@@ -18,6 +18,7 @@
 ### :computer: Projetos:
 - <a href="https://di3gocs.github.io">Meu site</a>
 - <a href="https://github.com/covidmunicipal">Covid Municipal</a>
+-- <a href"https://irara.covidmunicipal.live/">Confere aqui!</a>
 
 ### :man_technologist: Habilidades Técnicas:
 - HTML, CSS e JS básico
