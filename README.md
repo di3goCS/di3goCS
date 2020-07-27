@@ -42,10 +42,10 @@
 <p align="center">
   <img
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"
-       width="25%" />
+       width="20%" />
   <img
        src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"
-       width="30%"
+       width="20%"
 </p>
 
 <!--
