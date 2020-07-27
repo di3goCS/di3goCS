@@ -43,7 +43,7 @@
        width="13%" />
   <img
        src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"
-       width="13%" />
+       width="12%" />
 </p>
 
 <!--
