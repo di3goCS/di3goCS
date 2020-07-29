@@ -46,7 +46,7 @@
        width="12%" />
 </p>
 
-### :bar_chart: Minhas Estatísticas do GitHub
+### :bar_chart: Minhas Estatísticas do GitHub:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=di3gocs&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
