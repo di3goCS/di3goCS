@@ -1,4 +1,5 @@
 [![Github Badge](https://img.shields.io/badge/-di3goCS-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/di3goCS)](https://github.com/di3goCS)
+[![GitHub di3goCS](https://img.shields.io/github/followers/di3gocs?label=follow&style=social)](https://github.com/di3goCS)
 [![Blog Badge](https://img.shields.io/badge/Blog-di3gocs.github.io-black)](https://di3gocs.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-di3gocs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/di3goCS/)](https://www.linkedin.com/in/di3goCS/)
 [![Gmail Badge](https://img.shields.io/badge/-diegosilva@ecomp.uefs.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegosilva@ecomp.uefs.br)](mailto:diegosilva@ecomp.uefs.br)
