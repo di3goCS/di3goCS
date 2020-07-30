@@ -13,7 +13,7 @@
 - Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS)
 - Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI)
 - Dizem que trabalho na <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
-- Finjo ser programador :shipit: na maior parte do tempo :crying_cat_face:
+- Finjo ser programador na maior parte do tempo :shipit:
   
 ### :computer: Projetos:
 - <a href="https://di3gocs.github.io">Meu site</a>
@@ -49,17 +49,3 @@
 ### :bar_chart: Minhas Estatísticas do GitHub:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=di3gocs&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**di3goCS/di3goCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
