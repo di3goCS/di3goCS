@@ -14,6 +14,7 @@
 - Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI)
 - Dizem que trabalho na <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
 - Finjo ser programador na maior parte do tempo :shipit:
+- Às vezes atuo em oficinas de programação :thought_balloon:
   
 ### :computer: Projetos:
 - <a href="https://di3gocs.github.io">Meu site</a>
