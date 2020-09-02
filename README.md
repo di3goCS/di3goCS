@@ -5,7 +5,7 @@
 
 <h3 align="center"> Oi, eu sou o Diego :flushed: </h3>
   
- <img align="right" 
+ <img align="left" 
   src="https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/programming-languages-fading-going-away_0.jpg?itok=hltRRpgL"
   width="50%"/>
 
