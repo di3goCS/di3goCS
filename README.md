@@ -6,7 +6,7 @@
 <h3 align="center"> Oi, eu sou o Diego :flushed: </h3>
   
  <img align="left" 
-  src="https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/programming-languages-fading-going-away_0.jpg?itok=hltRRpgL"
+  src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
   width="40%"/>
 
 - Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS)
