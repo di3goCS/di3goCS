@@ -4,11 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-diegosilva@ecomp.uefs.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegosilva@ecomp.uefs.br)](mailto:diegosilva@ecomp.uefs.br)
 
 <h3 align="center"> Oi, eu sou o Diego :flushed: </h3>
-<p align="center">
-  <img 
-    src="https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/programming-languages-fading-going-away_0.jpg?itok=hltRRpgL"
-    width="50%"/> 
- </p>
+  
+ <img align="right" 
+  src="https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/programming-languages-fading-going-away_0.jpg?itok=hltRRpgL"
+  width="50%"/>
 
 - Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS)
 - Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI)
