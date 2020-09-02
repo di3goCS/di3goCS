@@ -7,7 +7,7 @@
   
  <img align="left" 
   src="https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/programming-languages-fading-going-away_0.jpg?itok=hltRRpgL"
-  width="50%"/>
+  width="40%"/>
 
 - Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS)
 - Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI)
