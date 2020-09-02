@@ -5,7 +5,7 @@
 
 <h3 align="center"> Oi, eu sou o Diego :flushed: </h3>
   
- <img align="left" 
+ <img align="right" 
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
   width="40%"/>
 
