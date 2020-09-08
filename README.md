@@ -2,6 +2,7 @@
 [![Blog Badge](https://img.shields.io/badge/Blog-di3gocs.github.io-black)](https://di3gocs.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-di3gocs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/di3goCS/)](https://www.linkedin.com/in/di3goCS/)
 [![Gmail Badge](https://img.shields.io/badge/-diegosilva@ecomp.uefs.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegosilva@ecomp.uefs.br)](mailto:diegosilva@ecomp.uefs.br)
+[![HitCount](http://hits.dwyl.com/di3goCS/di3goCS/di3goCS.svg)](http://hits.dwyl.com/di3goCS/di3goCS/di3goCS)
 
 <h3 align="center"> Oi, eu sou o Diego :flushed: </h3>
   
