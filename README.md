@@ -17,11 +17,14 @@
 - Dizem que trabalho na <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
 - Finjo ser programador na maior parte do tempo :shipit:
 - Às vezes atuo em oficinas de programação :thought_balloon:
-  
-### :computer: Projetos:
+<details>
+  <summary>
+    <strong> :computer: Projetos </strong>
+   </summary>
 - <a href="https://di3gocs.github.io">Meu site</a>
 - <a href="https://github.com/covidmunicipal">Covid Municipal</a>
 -- <a href="https://irara.covidmunicipal.live/">Confere aqui!</a>
+ </details>
 
 ### :man_technologist: Habilidades Técnicas:
 - HTML, CSS e JS básico
