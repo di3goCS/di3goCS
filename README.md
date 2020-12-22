@@ -10,7 +10,7 @@
   
  <img align="right" 
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
-  width="40%" height="40%"/>
+  width="40%" height="20%"/>
 
 - Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS)
 - Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI)
