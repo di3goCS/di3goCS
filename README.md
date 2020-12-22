@@ -10,7 +10,7 @@
   
  <img align="right" 
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
-  width="40%" height="20%"/>
+  width="40%"/>
 
 - Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS)
 - Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI)
@@ -21,10 +21,11 @@
   <summary>
     <strong> :computer: Projetos </strong>
    </summary>
-  - <a href="https://di3gocs.github.io">Meu site</a></br>
-  - <a href="https://github.com/covidmunicipal">Covid Municipal</a>
-  -- <a href="https://irara.covidmunicipal.live/">Confere aqui!</a>
- </details>
+  <ul>
+    <li> <a href="https://di3gocs.github.io">Meu site</a> </li>
+    <li> <a href="https://github.com/covidmunicipal">Covid Municipal</a> -- <a href="https://irara.covidmunicipal.live/">Confere aqui!</a> </li>
+  </ul>
+</details>
 
 <details>
   <summary>
