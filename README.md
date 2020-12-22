@@ -19,7 +19,7 @@
 - Às vezes atuo em oficinas de programação :thought_balloon:
 <details>
   <summary>
-    <strong> ### :computer: Projetos </strong>
+    <h3> :computer: Projetos </h3>
    </summary>
 - <a href="https://di3gocs.github.io">Meu site</a>
 - <a href="https://github.com/covidmunicipal">Covid Municipal</a>
