@@ -31,11 +31,13 @@
   <summary>
     <strong> :man_technologist: Habilidades Técnicas </strong>
    </summary>
-  - HTML, CSS e JS básico </br>
-  - PHP/Laravel </br>
-  - MySQL </br>
-  - Python </br>
-  - Git </br>
+  <ul>
+    <li> HTML, CSS e JS básico </li>
+    <li> PHP/Laravel </li>
+    <li> MySQL </li>
+    <li> Python </li>
+    <li> Git </li>
+  </ul>
   <p align="center">
     <img
          src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/147949-html5-css3-javascript.png"
