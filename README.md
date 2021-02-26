@@ -31,7 +31,8 @@
   <summary>
     <strong> :man_technologist: Habilidades Técnicas </strong>
    </summary>
-    ![] (https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) (https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+    ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
+    ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
   <p align="center">
     <img
          src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/147949-html5-css3-javascript.png"
