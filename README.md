@@ -27,30 +27,10 @@
   </ul>
 </details>
 
-<details>
-  <summary>
-    <strong> :man_technologist: Habilidades Técnicas </strong>
-   </summary>
-    ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
-    ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-  <p align="center">
-    <img
-         src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/147949-html5-css3-javascript.png"
-         width="20%" />
-    <img 
-         src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" 
-         width="13%" />
-    <img
-         src="https://alexandrebbarbosa.files.wordpress.com/2018/06/logolaravel.png" 
-         width="18%" />
-     <img
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"
-         width="8%" />
-    <img
-         src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"
-         width="7%" />
-  </p>
-</details>
+<strong> :man_technologist: Habilidades Técnicas </strong>
+
+![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
+![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ### :bar_chart: Minhas Estatísticas do GitHub:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di3gocs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
