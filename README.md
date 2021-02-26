@@ -32,7 +32,7 @@
     <strong> :man_technologist: Habilidades Técnicas </strong>
    </summary>
   <ul>
-    <li> [](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) [](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) </li>
+    <li> (https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) (https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) </li>
     <li> PHP/Laravel </li>
     <li> MySQL </li>
     <li> Python </li>
