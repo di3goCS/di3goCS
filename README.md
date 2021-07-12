@@ -6,30 +6,30 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Diego Silva's DEV Profile" height="30" width="30">
 </a>
 
-<h3 align="center"> Oi, eu sou o Diego :flushed: </h3>
+<h3 align="center"> Hi, I'm Diego :flushed: </h3>
   
  <img align="right" 
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
   width="40%"/>
 
-- Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS)
-- Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI)
-- Dizem que trabalho na <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
-- Finjo ser programador na maior parte do tempo :shipit:
-- Às vezes atuo em oficinas de programação :thought_balloon:
+- Undergraduate in Computer Engineering at State University of Feira de Santana (UEFS)
+- Systems Development Technician Degree at National Service of Industrial Learning (SENAI)
+- People said that I work at <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
+- I pretend to be a programmer most of the time :shipit:
+- Sometimes, participates in programming workshops :thought_balloon:
 <details>
   <summary>
-    <strong> :computer: Projetos </strong>
+    <strong> :computer: Projects </strong>
    </summary>
   <ul>
-    <li> <a href="https://di3gocs.github.io">Meu site</a> </li>
-    <li> <a href="https://github.com/covidmunicipal">Covid Municipal</a> -- <a href="https://irara.covidmunicipal.live/">Confere aqui!</a> </li>
+    <li> <a href="https://di3gocs.github.io">My website</a> </li>
+    <li> <a href="https://github.com/covidmunicipal">Covid Municipal</a> -- <a href="https://irara.covidmunicipal.live/"> Check it out!</a> </li>
   </ul>
 </details>
 
 <details>
   <summary>
-    <strong> :man_technologist: Habilidades Técnicas </strong>
+    <strong> :man_technologist: Tech Skills </strong>
    </summary>
   <ul markdown="1">
     
@@ -56,7 +56,7 @@
 </details>
 
 
-### :bar_chart: Minhas Estatísticas do GitHub:
+### :bar_chart: My Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di3gocs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=di3gocs&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
