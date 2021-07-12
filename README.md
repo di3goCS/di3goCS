@@ -50,6 +50,7 @@
 
   #### Frameworks
   ![](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
+  ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
   ![](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
   ![](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
   ![](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white)
