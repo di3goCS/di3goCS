@@ -10,7 +10,7 @@
   
  <img align="right" 
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
-  width="30%"/>
+  width="40%"/>
 
 - Undergraduate in Computer Engineering at State University of Feira de Santana (UEFS)
 - Systems Development Technician Degree at National Service of Industrial Learning (SENAI)
@@ -27,7 +27,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>
     <strong> :man_technologist: Tech Skills </strong>
    </summary>
