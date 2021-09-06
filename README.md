@@ -14,9 +14,9 @@
 
 - Undergraduate in Computer Engineering at State University of Feira de Santana (UEFS)
 - Systems Development Technician Degree at National Service of Industrial Learning (SENAI)
-- People said that I work at <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
+- Volunteer at <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
 - I pretend to be a programmer most of the time :shipit:
-- Sometimes, participates in programming workshops :thought_balloon:
+- Sometimes, participates in programming workshops as a teacher :thought_balloon:
 <details>
   <summary>
     <strong> :computer: Projects </strong>
