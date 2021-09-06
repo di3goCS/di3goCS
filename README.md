@@ -12,7 +12,7 @@
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
   width="40%"/>
 
-- Undergraduate in Computer Engineering at State University of Feira de Santana (UEFS)
+- Pursuing B.S. in Computer Engineering at State University of Feira de Santana (UEFS)
 - Systems Development Technician Degree at National Service of Industrial Learning (SENAI)
 - Volunteer at <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
 - I pretend to be a programmer most of the time :shipit:
