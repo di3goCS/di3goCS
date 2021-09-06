@@ -16,7 +16,7 @@
 - Systems Development Technician Degree at National Service of Industrial Learning (SENAI)
 - Volunteer at <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
 - I pretend to be a programmer most of the time :shipit:
-- Sometimes, participates in programming workshops as a teacher :thought_balloon:
+- Sometimes, teachs at programming workshops :thought_balloon:
 <details>
   <summary>
     <strong> :computer: Projects </strong>
