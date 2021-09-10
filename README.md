@@ -14,7 +14,7 @@
 
 - Pursuing B.S. in Computer Engineering at State University of Feira de Santana (UEFS)
 - Systems Development Technician Degree at National Service of Industrial Learning (SENAI)
-- Volunteer at <a href="https://github.com/EcompJr">EcompJr<a> :blue_heart:
+- Volunteer at <a href="https://www.ecompjr.com.br/">EcompJr<a> :blue_heart:
 - Pretending to be a programmer most of the time :shipit:
 - Sometimes, teachs at programming workshops :thought_balloon:
 <details>
