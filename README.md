@@ -29,7 +29,12 @@
   ![](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
   ![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
   ![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) <br/>
-    <a href="https://github.com/di3goCS/technical-test-ecompjr"> Teste técnico para a EcompJr <a/>
+    <ul>
+      <li>
+        <a href="https://github.com/di3goCS/technical-test-ecompjr"> Teste técnico para a EcompJr <a/>
+      <li/>
+    <ul/>
+  <br/>
   ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
   ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
