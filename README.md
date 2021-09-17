@@ -9,18 +9,10 @@
 - Systems Development Technician Degree at National Service of Industrial Learning (SENAI)
 - Volunteer at <a href="https://www.ecompjr.com.br/">EcompJr<a> :blue_heart:
 - Sometimes, teachs at programming workshops :thought_balloon:
-<details>
-  <summary>
-    <strong> :computer: Projects </strong>
-   </summary>
-  <ul>
-    <li> <a href="https://github.com/covidmunicipal">Covid Municipal</a> -- <a href="https://irara.covidmunicipal.live/"> Check it out!</a> </li>
-  </ul>
-</details>
 
 <details open>
   <summary>
-    <strong> :man_technologist: Tech Skills and Projects </strong>
+    <strong> :man_technologist: Tech Skills </strong>
    </summary>
   <ul markdown="1">
     
