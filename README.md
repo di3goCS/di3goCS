@@ -1,7 +1,3 @@
-[![GitHub di3goCS](https://img.shields.io/github/followers/di3gocs?label=follow&style=social)](https://github.com/di3goCS)
-[![Blog Badge](https://img.shields.io/badge/Blog-di3gocs.github.io-black)](https://di3gocs.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/-di3gocs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/di3goCS/)](https://www.linkedin.com/in/di3goCS/)
-[![Gmail Badge](https://img.shields.io/badge/-diegosilva@ecomp.uefs.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegosilva@ecomp.uefs.br)](mailto:diegosilva@ecomp.uefs.br)
 <a href="https://dev.to/di3gocs">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Diego Silva's DEV Profile" height="30" width="30">
 </a>
@@ -21,14 +17,13 @@
     <strong> :computer: Projects </strong>
    </summary>
   <ul>
-    <li> <a href="https://di3gocs.github.io">My website</a> </li>
     <li> <a href="https://github.com/covidmunicipal">Covid Municipal</a> -- <a href="https://irara.covidmunicipal.live/"> Check it out!</a> </li>
   </ul>
 </details>
 
 <details open>
   <summary>
-    <strong> :man_technologist: Tech Skills </strong>
+    <strong> :man_technologist: Tech Skills and Projects </strong>
    </summary>
   <ul markdown="1">
     
@@ -58,6 +53,11 @@
     
   </ul>
 </details>
+
+[![GitHub di3goCS](https://img.shields.io/github/followers/di3gocs?label=follow&style=social)](https://github.com/di3goCS)
+[![Blog Badge](https://img.shields.io/badge/Blog-di3gocs.github.io-black)](https://di3gocs.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-di3gocs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/di3goCS/)](https://www.linkedin.com/in/di3goCS/)
+[![Gmail Badge](https://img.shields.io/badge/-diegosilva@ecomp.uefs.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegosilva@ecomp.uefs.br)](mailto:diegosilva@ecomp.uefs.br)
 
 
 ### :bar_chart: My Github Stats:
