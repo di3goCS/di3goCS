@@ -7,7 +7,7 @@
 
 - Pursuing B.S. in Computer Engineering at Universidade Estadual de Feira de Santana (UEFS)
 - Systems Development Technician Degree at National Service of Industrial Learning (SENAI)
-- Volunteer at <a href="https://www.ecompjr.com.br/">EcompJr<a> :blue_heart:
+- Software Engineer Intern
 - Sometimes, teachs at programming workshops :thought_balloon:
 
 <details open>
