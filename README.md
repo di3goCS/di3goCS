@@ -5,9 +5,9 @@
   src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"
   width="40%"/>
 
+- Software Engineer
 - Pursuing B.S. in Computer Engineering at Universidade Estadual de Feira de Santana (UEFS)
 - Systems Development Technician Degree at National Service of Industrial Learning (SENAI)
-- Software Engineer Intern
 - Sometimes, teachs at programming workshops :thought_balloon:
 
 <details open>
